@@ -17,7 +17,7 @@ Runtime: 352 ms<br />
 Memory Usage: 35.5 MB<br />
 </b>
 
-
+![image](https://user-images.githubusercontent.com/570762/130335398-ed1597b0-e8f4-49c1-b6f5-6f54f1d035e4.png)
 
 I think I was very good in this test, I followed some tips and in the source code I make a "easy" way in one line by using Linq.
 
